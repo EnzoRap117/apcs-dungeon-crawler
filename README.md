@@ -1,6 +1,6 @@
 # APCS Dungeon Crawler — ASCII Roguelike in Java
 
-An archival upload of a game I made for fun in 2024, during my senior year of high school. I built it as a personal challenge to apply as many concepts from my AP Computer Science class as I could.
+An archival upload of a game I made for fun in 2024, during my junior year of high school. I built it as a personal challenge to apply as many concepts from my AP Computer Science class as I could.
 
 ## Description
 
