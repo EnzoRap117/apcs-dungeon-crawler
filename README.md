@@ -24,7 +24,3 @@ javac *.java
 java GameRunner
 ```
 Or press the run button in VSCode while GameRunner.java is selected
-
-## About This Code
-
-I wrote this as a solo development project as a self-directed learning exercise for AP Computer Science. As such, it has minimal comments, and it isn't up to professional coding standards. It's uploaded as it was originally written, as a single commit, with no earlier version history.
